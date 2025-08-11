@@ -3,7 +3,9 @@ title: "Paper Title Number 1"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'To address the lack of trust in "black-box" medical AI models and the safety risks of their overconfident predictions, we propose the ESAUT framework. ESAUT utilizes a convolution-enhanced Vision Transformer (ViT) for whole slide image analysis and introduces stochastic uncertainty to quantify prediction confidence. Furthermore, our post-hoc explainability method enhances transparency and trust by identifying the key image regions and cellular features that drive the model's decisions.'
+excerpt: >-
+  To address the lack of trust in "black-box" medical AI models and the safety risks of their overconfident predictions, we propose the ESAUT framework. ESAUT utilizes a convolution-enhanced Vision Transformer (ViT) for whole slide image analysis and introduces stochastic uncertainty to quantify prediction confidence. Furthermore, our post-hoc explainability method enhances transparency and trust by identifying the key image regions and cellular features that drive the model's decisions.
+date: 2023-09-23
 date: 2009-10-01
 venue: 'Journal 1'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
