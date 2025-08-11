@@ -9,6 +9,6 @@ date: 2023-09-23
 venue: 'Computerized Medical Imaging and Graphics 110, 102302'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
+bibtexurl: 'http://t-zhihao.github.io/files/bibtex1.bib'
 citation: 'Tang, Zhihao, et al. "Explainable survival analysis with uncertainty using convolution-involved vision transformer." Computerized Medical Imaging and Graphics 110 (2023): 102302.'
 ---
