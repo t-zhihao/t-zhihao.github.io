@@ -1,11 +1,16 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+Zhihao Tang is a Ph.D. candidate in Cyberspace Security at Beijing University of Posts and Telecommunications (BUPT). He is pursuing his doctorate in a combined Master's-Ph.D. program, which is expected to conclude in June 2026. He also received his Bachelor's degree in Network Engineering from BUPT in June 2020. He is currently an intern at ByteDance as part of the Jindouyun Talent Plan. His primary research focuses on multimodal medical large models for complex scenarios.
+
+He has published several papers as the first author or student first author in top-tier conferences and journals, such as IJCAI , AAAI , IEEE Transactions on Medical Imaging (TMI) , and Computerized Medical Imaging and Graphics (CMIG).
+
+Zhihao Tang maintains close collaborations with leading institutions and companies, including ByteDance , Microsoft Research Asia (MSRA) , Beihang University , and major medical centers like Fujian Provincial Cancer Hospital and the Cancer Hospital, Chinese Academy of Medical Sciences.
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
