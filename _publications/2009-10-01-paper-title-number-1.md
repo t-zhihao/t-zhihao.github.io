@@ -10,4 +10,5 @@ paperurl: 'https://arxiv.org/pdf/2506.05428'
 bibtexurl: 'http://t-zhihao.github.io/files/bibtex4.bib'
 citation: 'Tang, Zhihao, et al. "Diffusion with a Linguistic Compass: Steering the Generation of Clinically Plausible Future sMRI Representations for Early MCI Conversion Prediction." arXiv preprint arXiv:2506.05428 (2025).'
 date: 2025-12-31
+venue: 'Arxiv'
 ---
