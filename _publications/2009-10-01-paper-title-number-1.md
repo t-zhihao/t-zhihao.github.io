@@ -1,14 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "Diffusion with a Linguistic Compass: Steering
+the Generation of Clinically Plausible Future sMRI Representations for Early MCI Conversion Prediction."
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+excerpt: >-
+  The diagnosis of early memory decline presents a trade-off between rapid, single-scan assessments that are inaccurate and accurate, multi-year longitudinal studies that delay crucial intervention. Our approach resolves this by leveraging a large language model (LLM) to steer a diffusion model, generating high-fidelity, time-series brain imaging data from a single scan. This process creates a self-improving data flywheel, where the synthetic data boosts diagnostic accuracy while simultaneously refining the LLM's generative capabilities.
+date: TBD
+venue: 'TBD'
+paperurl: 'https://arxiv.org/pdf/2506.05428'
+bibtexurl: 'http://t-zhihao.github.io/files/bibtex4.bib'
+citation: 'Tang, Zhihao, et al. "Diffusion with a Linguistic Compass: Steering the Generation of Clinically Plausible Future sMRI Representations for Early MCI Conversion Prediction." arXiv preprint arXiv:2506.05428 (2025).'
 ---
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
