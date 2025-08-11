@@ -1,6 +1,6 @@
 ---
 title: "From Representation Space to Prognostic Insights: Whole Slide Image Generation with Hierarchical
-Diffusion Model for Survival Prediction."
+Diffusion Model for Survival Prediction"
 collection: publications
 category: conferences
 permalink: /publication/2015-10-01-paper-title-number-3
