@@ -22,7 +22,7 @@ repository               : t-zhihao/t-zhihao.github.io
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : avatar.jpg
   name             : Zhihao Tang
   pronouns         : # example: "she/her"  
   bio              : PhD candidate at Beijing University of Posts and Telecommunications. My research focuses on trustworthy multimodal AI for healthcare.
