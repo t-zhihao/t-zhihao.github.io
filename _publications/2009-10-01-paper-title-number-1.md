@@ -1,6 +1,6 @@
 ---
 title: "Diffusion with a Linguistic Compass: Steering
-the Generation of Clinically Plausible Future sMRI Representations for Early MCI Conversion Prediction."
+the Generation of Clinically Plausible Future sMRI Representations for Early MCI Conversion Prediction"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
