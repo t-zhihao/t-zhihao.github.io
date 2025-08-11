@@ -10,5 +10,6 @@ date: 2025-04-11
 venue: 'Proceedings of the AAAI Conference on Artificial Intelligence, 39(7), 7329-7337.'
 slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
 paperurl: 'https://ojs.aaai.org/index.php/AAAI/article/view/32788/34943'
+bibtexurl: 'http://t-zhihao.github.io/files/bibtex3.bib'
 citation: 'Tang, Z., Zhang, X., & Li, C. (2025). From Representation Space to Prognostic Insights: Whole Slide Image Generation with Hierarchical Diffusion Model for Survival Prediction. Proceedings of the AAAI Conference on Artificial Intelligence, 39(7), 7329-7337. https://doi.org/10.1609/aaai.v39i7.32788'
 ---
